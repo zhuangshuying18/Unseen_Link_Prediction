@@ -1,4 +1,4 @@
 # Unseen_Link_Prediction
-Our SGMF model and prototype
+The source code of our SGMF method
 
 Run multitrainmf.py
